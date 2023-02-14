@@ -15,7 +15,7 @@ Note that this is a very basic example, and you may want to add more functionali
 . If the changes are approved, you will have to create a file CONTRIBUTION.md
 
 ## Author
-[Dovine Owuor](https://github.com/dovineowuor
+[Dovine Owuor](https://github.com/dovineowuor)
 
 ## Acknowledgement
 
